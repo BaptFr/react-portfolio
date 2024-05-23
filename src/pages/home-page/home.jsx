@@ -34,7 +34,7 @@ function Home() {
         loop= {1}
         cursor
         cursorStyle='|'
-        typeSpeed={200}
+        typeSpeed={100}
       /> 
     </div>
 

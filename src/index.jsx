@@ -9,17 +9,18 @@ import NotFound from './pages/error-page/not-found.jsx';
 import Contact from './pages/contact-page/contact-page.jsx';
 
 
+
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router basename="/react-portfolio">
       <ScrollToTop />
       <Layout>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/projets" element={<Projets />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="*" element={<NotFound />} />   
-          </Routes>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/projets" element={<Projets />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="*" element={<NotFound />} />   
+        </Routes>
       </Layout>
     </Router>
   </React.StrictMode>
