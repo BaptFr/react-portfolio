@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio.git/static/css/main.6eb3e7ca.css",
-    "main.js": "/react-portfolio.git/static/js/main.1a73d8e4.js",
+    "main.js": "/react-portfolio.git/static/js/main.3a98ef06.js",
     "static/media/fond-1-l.webp": "/react-portfolio.git/static/media/fond-1-l.b57185ee0461ab2fe942.webp",
     "static/media/fond-2-l.webp": "/react-portfolio.git/static/media/fond-2-l.ec4bdefdaf3ef5507984.webp",
     "static/media/fond-1-m.webp": "/react-portfolio.git/static/media/fond-1-m.cd6e26709874b35f8bd4.webp",
@@ -48,10 +48,10 @@
     "static/media/work-logo-col.svg": "/react-portfolio.git/static/media/work-logo-col.f8298a28ed7d9e0d873785833a95a9d9.svg",
     "static/media/mail-logo-col.svg": "/react-portfolio.git/static/media/mail-logo-col.5feb2576c434380602c67e105cef41f7.svg",
     "main.6eb3e7ca.css.map": "/react-portfolio.git/static/css/main.6eb3e7ca.css.map",
-    "main.1a73d8e4.js.map": "/react-portfolio.git/static/js/main.1a73d8e4.js.map"
+    "main.3a98ef06.js.map": "/react-portfolio.git/static/js/main.3a98ef06.js.map"
   },
   "entrypoints": [
     "static/css/main.6eb3e7ca.css",
-    "static/js/main.1a73d8e4.js"
+    "static/js/main.3a98ef06.js"
   ]
 }
