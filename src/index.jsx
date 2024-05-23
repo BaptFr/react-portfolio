@@ -11,7 +11,7 @@ import Contact from './pages/contact-page/contact-page.jsx';
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/react-portfolio">
       <ScrollToTop />
       <Layout>
           <Routes>
