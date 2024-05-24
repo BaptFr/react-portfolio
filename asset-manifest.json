@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.eda44427.css",
-    "main.js": "/react-portfolio/static/js/main.838c002f.js",
+    "main.css": "/react-portfolio/static/css/main.3212cd65.css",
+    "main.js": "/react-portfolio/static/js/main.e50c2224.js",
     "static/media/fond-1-l.webp": "/react-portfolio/static/media/fond-1-l.b57185ee0461ab2fe942.webp",
     "static/media/fond-2-l.webp": "/react-portfolio/static/media/fond-2-l.ec4bdefdaf3ef5507984.webp",
     "static/media/fond-1-m.webp": "/react-portfolio/static/media/fond-1-m.cd6e26709874b35f8bd4.webp",
@@ -47,11 +47,11 @@
     "static/media/linkedin-logo.svg": "/react-portfolio/static/media/linkedin-logo.8a0e38d8ecd0b994e63e2cdd597c0699.svg",
     "static/media/work-logo-col.svg": "/react-portfolio/static/media/work-logo-col.f8298a28ed7d9e0d873785833a95a9d9.svg",
     "static/media/mail-logo-col.svg": "/react-portfolio/static/media/mail-logo-col.5feb2576c434380602c67e105cef41f7.svg",
-    "main.eda44427.css.map": "/react-portfolio/static/css/main.eda44427.css.map",
-    "main.838c002f.js.map": "/react-portfolio/static/js/main.838c002f.js.map"
+    "main.3212cd65.css.map": "/react-portfolio/static/css/main.3212cd65.css.map",
+    "main.e50c2224.js.map": "/react-portfolio/static/js/main.e50c2224.js.map"
   },
   "entrypoints": [
-    "static/css/main.eda44427.css",
-    "static/js/main.838c002f.js"
+    "static/css/main.3212cd65.css",
+    "static/js/main.e50c2224.js"
   ]
 }
